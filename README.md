@@ -1,7 +1,3 @@
-Certainly! Here's a comprehensive GitHub Wiki documentation based on the provided information:
-
----
-
 # Manufacturer List Price Estimation and Prediction Model
 
 ## Introduction
@@ -130,7 +126,3 @@ For detailed code and further explanations, please refer to the [source code rep
 - [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
 - [Scikit-learn Documentation](https://scikit-learn.org/stable/documentation.html)
 - [Joblib Documentation](https://joblib.readthedocs.io/en/latest/)
-
----
-
-Feel free to ask any specific questions or request more details on any part of this documentation.
